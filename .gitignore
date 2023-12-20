@@ -1,0 +1,16 @@
+*.vtk
+*.png
+*.pickle
+*.json
+*.bin
+executable
+*.db
+*.csv
+*.zip
+*.json
+*.mp4
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
